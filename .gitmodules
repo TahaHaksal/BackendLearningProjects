@@ -1,0 +1,24 @@
+[submodule "FreeCodeCampExerciseTracker"]
+	path = FreeCodeCampExerciseTracker
+	url = https://github.com/TahaHaksal/FreeCodeCampExerciseTracker
+[submodule "FreeCodeCampURLShortener"]
+	path = FreeCodeCampURLShortener
+	url = https://github.com/TahaHaksal/FreeCodeCampURLShortener
+[submodule "FreeCodeCampHeaderParser"]
+	path = FreeCodeCampHeaderParser
+	url = https://github.com/TahaHaksal/FreeCodeCampHeaderParser
+[submodule "FreeCodeCampTimestamps"]
+	path = FreeCodeCampTimestamps
+	url = https://github.com/TahaHaksal/FreeCodeCampTimestamps
+[submodule "FreeCodeCampExpress"]
+	path = FreeCodeCampExpress
+	url = https://github.com/TahaHaksal/FreeCodeCampExpress
+[submodule "FreeCodeCampMiddlewares"]
+	path = FreeCodeCampMiddlewares
+	url = https://github.com/TahaHaksal/FreeCodeCampBackendAPIs
+[submodule "FreeCodeCampFileMetaData"]
+	path = FreeCodeCampFileMetaData
+	url = https://github.com/TahaHaksal/FreeCodeCampFileMetaData
+[submodule "FreeCodeCampMongoDB"]
+	path = FreeCodeCampMongoDB
+	url = https://github.com/TahaHaksal/FreeCodeCampMongoDB
